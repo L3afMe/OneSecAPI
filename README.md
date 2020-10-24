@@ -34,7 +34,7 @@ oneSec.getMail().then(mailbox => {
 
 * **[OneSecMailbox](#onesecmailbox)**
     * [Constructor](#new-onesecmailboxusername-string-domain-string-onesecmailboxonesecmailbox)
-    * [OneSecMailbox~getMail](#onesecmailboxonesecmailboxgetmail-promisehttpsdevelopermozillaorgen-usdocswebjavascriptreferenceglobal_objectspromise-onesecmessageonesecmessage)
+    * [OneSecMailbox~getMail](#onesecmailboxonesecmailboxgetmail-promisehttpsdevelopermozillaorgen-usdocswebjavascriptreferenceglobal_objectspromiseonesecmessageonesecmessage)
     * [OneSecMailbox.getDomains](#onesecmailboxonesecmailboxgetdomains-string)
 * **[OneSecMessage](#onesecmessage)**
     * [OneSecMessage~getID](#onesecmessageonesecmessagegetid-number)
@@ -70,7 +70,7 @@ oneSec.getMail().then(mailbox => {
 
 ---
 
-### [OneSecMailbox](#onesecmailbox)~getMail(): [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) <[OneSecMessage](#onesecmessage)[]>
+### [OneSecMailbox](#onesecmailbox)~getMail(): [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)<[OneSecMessage](#onesecmessage)[]>
 
 **Description**
 

@@ -1,6 +1,7 @@
 {
   "name": "1secapi",
   "version": "1.0.0",
+  "repository": "https://github.com/L3afMe/OneSecAPI",
   "description": "NodeJS wrapper for 1secmail.com",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -10,7 +11,7 @@
     "free"
   ],
   "author": "L3af",
-  "license": "ISC",
+  "license": "GNU General Public License v3.0",
   "dependencies": {
     "node-fetch": "^2.6.1"
   }
