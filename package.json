@@ -1,0 +1,17 @@
+{
+  "name": "1secapi",
+  "version": "1.0.0",
+  "description": "NodeJS wrapper for 1secmail.com",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "keywords": [
+    "1secmail",
+    "email",
+    "free"
+  ],
+  "author": "L3af",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
