@@ -46,15 +46,15 @@ export class OneSecMessageAttachment {
 
 // noinspection JSUnusedGlobalSymbols
 export class OneSecMessage {
-    private mailbox: OneSecMailbox;
-    private id: number;
-    private sender: string;
-    private subject: string;
-    private date: Date;
-    private attachments: OneSecMessageAttachment[];
-    private body: string;
-    private textBody: string;
-    private htmlBody: string;
+	private mailbox: OneSecMailbox;
+	private id: number;
+	private sender: string;
+	private subject: string;
+	private date: Date;
+	private attachments: OneSecMessageAttachment[];
+	private body: string;
+	private textBody: string;
+	private htmlBody: string;
 	
 	/**
 	 * Returns the 1secMAIL ID
