@@ -14,5 +14,8 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "test": "node example"
   }
 }
