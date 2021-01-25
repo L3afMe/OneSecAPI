@@ -1,6 +1,6 @@
 {
   "name": "onesec-api",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "repository": "https://github.com/L3afMe/OneSecAPI",
   "description": "NodeJS wrapper for 1secmail.com",
   "main": "./lib/index.js",
