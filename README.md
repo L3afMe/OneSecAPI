@@ -69,7 +69,7 @@ oneSec.getMail().then((mailbox) => {
 
 * **Username** - The username of the email
 * **Domain** - The email domain (Not including the '@')
-    * **Valid Domains:** `1secmail.com` `1secmail.org` `1setmail.net` `wwjmp.com` `esiix.com`
+    * **Valid Domains:** `1secmail.com` `1secmail.org` `1secmail.net` `wwjmp.com` `esiix.com`
 
 **Description**
 
