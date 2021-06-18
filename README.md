@@ -85,11 +85,11 @@ oneSec.getMail().then((mailbox) => {
 
 ---
 
-### [OneSecMailbox](#onesecmailbox).getDomains(): string[]
+### [OneSecMailbox](#onesecmailbox).getDomains(): [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)<string[]>
 
 **Description**
 
-* Returns list of valid domains
+* Returns list of valid domains by fetching the API endpoint (new in June 2021)
 
 </details>
 

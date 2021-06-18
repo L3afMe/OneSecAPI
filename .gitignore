@@ -1,3 +1,6 @@
 node_modules/
 .idea/
 package-lock.json
+
+# Nano backup file
+*~
